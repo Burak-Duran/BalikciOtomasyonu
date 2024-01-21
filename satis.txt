@@ -1,0 +1,8 @@
+
+hamsi        50        50      2500
+uskumru        20        30       600
+hamsi        50       150      7500
+uskumru        20       300      6000
+istavrit        40       450     18000
+istavrit        40       450     18000
+hamsi        50       250     12500

@@ -1,0 +1,5 @@
+
+istavrit       300        70
+hamsi       300        45
+uskumru       500        60
+palamut       100        90
